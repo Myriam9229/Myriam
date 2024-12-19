@@ -1,0 +1,22 @@
+body {
+	font-family: "arial";
+	margin: 50px;
+	background-color: #979797;
+}
+
+h2 {
+	font-variant: small-caps;
+	font-size: large;
+	text-shadow: 1px 1px;
+	text-align: center;
+	
+	
+}
+ img {
+            width: 50%; 	
+      
+        }
+div{
+	height:80px;
+    width:100%;
+	}
